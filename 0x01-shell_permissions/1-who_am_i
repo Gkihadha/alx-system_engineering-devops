@@ -1,2 +1,2 @@
 #!/bin/bash
-root /n
+% sudo su – /n
